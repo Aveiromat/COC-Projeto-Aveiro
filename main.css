@@ -2,8 +2,9 @@
     --enable-dark-mode: false;
 }  
 
-body {
+* {
     font-family: Roboto, sans-serif;
+    color-scheme: light!important;
 }
 
 .navbar {
