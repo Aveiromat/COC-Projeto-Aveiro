@@ -1,3 +1,7 @@
+:root {
+    --enable-dark-mode: false;
+}  
+
 body {
     font-family: Roboto, sans-serif;
 }
