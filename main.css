@@ -1,3 +1,7 @@
+:root {
+    --bs-dark: false; /* Desativa o Dark Mode do Bootstrap */
+}
+
 * {
     font-family: 'Quicksand', sans-serif;
 }
